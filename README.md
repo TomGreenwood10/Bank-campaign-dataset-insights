@@ -1,6 +1,6 @@
 # Bank-campaign-dataset-insights
 
-This task was given to ma as part of a datascience boot camp.  
+This task was given to me as part of a datascience boot camp.  
 
 ## The brief
 
